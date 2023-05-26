@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://JinjinChen12.github.io/Jinjin12.JPG" class="floatpic" width="360" height="360">
+<img src="https://JinjinChen12.github.io/images/Jinjin.JPG" class="floatpic" width="360" height="360">
 
 Here is Jinjin Chen. 
 I am a highly self-motivated and experienced scientist with PhD degree in Synthetic Biology. 
